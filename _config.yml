@@ -1,0 +1,14 @@
+layout_spectrum: 0.9112153
+typography_spectrum: 0.7268128
+color:
+  saturation: 0.5173916
+  lightness: 0.5324333
+  brandStrength: 0.6276737
+  brandColors:
+    - '#010201'
+    - '#BD9B6D'
+    - '#FBE9B4'
+    - '#63B331'
+    - '#C81F03'
+  rhythmicContrast: 0.2972171
+name: Flashy Cats
